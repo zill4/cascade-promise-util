@@ -1,5 +1,5 @@
 {
-  "name": "@cascade/promise-util",
+  "name": "cubex_cascade_promise_util",
   "version": "0.0.1",
   "description": "A Promise utility",
   "author": "Sean Johnson <sjohnson@sjohnsonaz.com>",
@@ -22,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sjohnsonaz/cascade-promise-util.git"
+    "url": "https://github.com/zill4/cubex_cascade_promise_util.git"
   },
   "bugs": {},
   "dependencies": {},
