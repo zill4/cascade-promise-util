@@ -29,7 +29,6 @@ build/Release
 node_modules
 
 # Build directory
-dist/
 docs/apidocs/
 
 # Packed files
